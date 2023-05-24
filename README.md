@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=F1BDB0&height=150&section=header&text=하린's&nbsp;github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=F1BDB0&height=200&section=header&text=하린's&nbsp;github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
   
   ![하린's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlleee&show_icons=true&theme=gruvbox)
   
