@@ -24,12 +24,12 @@
 <br>
 <br>
   
-![하린's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlleee&show_icons=true&theme=graywhite)
+![하린's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlleee&show_icons=true&theme=gruvbox_light)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlleee&layout=compact">
   
 <br>
   
-<img src="https://ghchart.rshah.org/333333/hlleee" />
+<img src="https://ghchart.rshah.org/ffa500/hlleee" />
 <!-- FFA500 -->
 
 </div>
