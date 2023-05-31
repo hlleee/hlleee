@@ -2,7 +2,7 @@
   
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=F1BDB0&height=200&section=header&text=하린's&nbsp;github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55) -->
 
-  <h1> Hi I'm Harin!🖐️</h1>
+  <h1> 🖐️ Harin's Github 🖐️</h1>
   
   
 <h3 align="center"> 🪄 SNS list 🪄 </h3>
