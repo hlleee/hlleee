@@ -8,7 +8,12 @@
 
   
 <h3 align="center"> 🪄 SNS list 🪄 </h3>
-인스타, 벨로그
+<!-- <a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> -->
+인스타, 벨로그 - https://velog.io/@hllee
   
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
