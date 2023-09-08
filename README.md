@@ -33,8 +33,8 @@
 
 <br>
 <br>
-  
-![하린's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlleee&show_icons=true&theme=gruvbox_light)
+<!--  ![하린's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlleee&show_icons=true&theme=gruvbox_light) --!>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlleee&layout=compact">
   
 <br>
